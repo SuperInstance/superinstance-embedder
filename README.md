@@ -44,7 +44,7 @@ let json = index.to_vectorize_batch();
 ## Experiments
 
 1. **Coverage analysis**: Which domains have the most crates?
-2. **Synergy detection**: Cross-domain matches the authors missed
+2. **integration detection**: Cross-domain matches the authors missed
 3. **Evolution tracking**: How embeddings change across waves
 4. **Gap finding**: Empty dimensions = unexplored territory
 
